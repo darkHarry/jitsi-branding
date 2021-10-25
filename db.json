@@ -1,8 +1,9 @@
  {
-     "jitsi": {
-        "backgroundColor": "#f00",
-        "backgroundImageUrl": "https://revidd123.cdn.revidd.tv/images/3e365682-b10b-49b2-8d10-8e3f9bc8c7fe.png",
-        "logoClickUrl": "https://dev.revidd.tv",
-        "logoImageUrl": "https://revidd123.cdn.revidd.tv/images/bcd08fbf-a0bf-4cfa-a4f8-226592474c78.jpg"
-     }
+ "jitsi": {
+    "backgroundColor": "#f00",
+    "backgroundImageUrl": "https://revidd123.cdn.revidd.tv/images/3e365682-b10b-49b2-8d10-8e3f9bc8c7fe.png",
+    "logoClickUrl": "https://revidd.com",
+    "logoImageUrl": "https://d2siqd2zfe273j.cloudfront.net/images/d77a31e0-bd11-4d66-bdef-45bf492bfea9.jpeg"
+  }
  }
+
